@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B Projects\\Security_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79390B3F-25BA-4216-B715-6327D64540CB}|Security_System\\Security_System.vcxproj|D:\\C\u002B\u002B Projects\\Security_System\\Security_System\\Security_System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79390B3F-25BA-4216-B715-6327D64540CB}|Security_System\\Security_System.vcxproj|solutionrelative:Security_System\\Security_System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Security_System.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B Projects\\Security_System\\Security_System\\Security_System.cpp",
+              "RelativeDocumentMoniker": "Security_System\\Security_System.cpp",
+              "ToolTip": "D:\\C\u002B\u002B Projects\\Security_System\\Security_System\\Security_System.cpp",
+              "RelativeToolTip": "Security_System\\Security_System.cpp",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAJ4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T11:22:21.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
